@@ -13,6 +13,8 @@
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
+[Data Analysis](#data-analysis)
+
 ### Projet Overview
 
 ### Data Sources
