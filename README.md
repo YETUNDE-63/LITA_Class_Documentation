@@ -4,11 +4,12 @@
 ------------------
 
 [Project Overview](project-overview)
-### Projet Overview:
+[Data Cleansing and Preparations](data-cleansing-and-preparations)
+### Projet Overview
 
-### Data Sources:
+### Data Sources
 
-### Tools Used:
+### Tools Used
 - Microsoft Excel [Download Here](http://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
