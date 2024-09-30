@@ -50,7 +50,11 @@ EDA involveed the exploring of the Data to answer some questions about the Data 
 ### Data Analysis
 -----------------
 This is where we included some basic lines of code or queries or even some of the DAX expressions used during the analysis.
-
+ - Example:
+   ~~~SQL
+   SELECT * FROM TABLE1
+   WHERE CONDITION = TRUE
+   ~~~
 
 
  
