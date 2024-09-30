@@ -32,5 +32,10 @@ In the initial phase of the Data Cleasing and preparations, we perform the follo
   - Handling missing variables
   - Data cleaning and formatting
 
+### Exploratory Data Analysis
+EDA involveed the exploring of the Data to answer some questions about the Data such as:
+  - What is the total fees paid by students in all branches?
+  - Wchich gender are top class?
+
 
  
