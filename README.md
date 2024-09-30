@@ -4,6 +4,11 @@
 ------------------
 
 [Project Overview](#project-overview)
+
+[Data Sources](#data-sources0
+
+[Tools Used](#tools-used)
+
 [Data Cleansing and Preparations](#data-cleansing-and-preparations)
 ### Projet Overview
 
