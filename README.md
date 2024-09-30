@@ -16,10 +16,13 @@
 [Data Analysis](#data-analysis)
 
 ### Projet Overview
+-------------------
 
 ### Data Sources
+----------------
 
 ### Tools Used
+--------------
 - Microsoft Excel [Download Here](http://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
@@ -32,18 +35,22 @@
   - For Portfolio Building
 
 ### Data Cleansing and Preparations
+-----------------------------------
 In the initial phase of the Data Cleasing and preparations, we perform the following actions:
-  - Data loading and inspection
-  - Handling missing variables
-  - Data cleaning and formatting
+  1. Data loading and inspection
+  2. Handling missing variables
+  3. Data cleaning and formatting
 
 ### Exploratory Data Analysis
+-----------------------------
 EDA involveed the exploring of the Data to answer some questions about the Data such as:
-  - What is the total fees paid by students in all branches?
-  - Wchich gender are top class?
+  1. What is the total fees paid by students in all branches?
+  2. Wchich gender are top class?
 
 ### Data Analysis
+-----------------
 This is where we included some basic lines of code or queries or even some of the DAX expressions used during the analysis.
+
 
 
  
