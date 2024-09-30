@@ -5,7 +5,7 @@
 
 [Project Overview](#project-overview)
 
-[Data Sources](#data-sources0
+[Data Sources](#data-sources)
 
 [Tools Used](#tools-used)
 
