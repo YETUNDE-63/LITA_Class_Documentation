@@ -3,8 +3,9 @@
 ### Project Title:
 ------------------
 
-[Project Overview](project-overview)
-[Data Cleansing and Preparations](data-cleansing-and-preparations)
+[Project Overview](#project-overview)
+
+[Data Cleansing and Preparations](#data-cleansing-and-preparations)
 ### Projet Overview
 
 ### Data Sources
