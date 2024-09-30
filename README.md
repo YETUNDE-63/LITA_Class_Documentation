@@ -56,10 +56,6 @@ This is where we included some basic lines of code or queries or even some of th
    WHERE CONDITION = TRUE
    ~~~
 
-   ~~~SQL
-   SELECT DISTINCT COLUMN1
-   FROM TABLE1
-   ~~~
-
+   
 
  
