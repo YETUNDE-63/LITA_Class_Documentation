@@ -15,7 +15,7 @@
 
 [Data Analysis](#data-analysis)
 
-[Data Visualization](#data_visualization)
+[Data Visualization](#data-visualization)
 
 ### Projet Overview
 -------------------
