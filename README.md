@@ -57,4 +57,4 @@
    ~~~
 
 
- 
+![QUERY1](https://github.com/user-attachments/assets/478fdf3a-a18a-4a48-a1b3-12f1c18bfa2e)
