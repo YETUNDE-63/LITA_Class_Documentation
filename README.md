@@ -60,6 +60,11 @@
    WHERE CONDITION = TRUE
    ~~~
 
+   ~~~SQL
+   SELECT * FROM TABLE1
+   ~~~
+
+
 ### Data Visualization
 ----------------------
 
