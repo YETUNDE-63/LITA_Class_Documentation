@@ -15,6 +15,8 @@
 
 [Data Analysis](#data-analysis)
 
+[Data Visualization](#data_visualization)
+
 ### Projet Overview
 -------------------
 
@@ -23,6 +25,8 @@
 
 ### Tools Used
 --------------
+
+
 - Microsoft Excel [Download Here](http://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
@@ -60,6 +64,7 @@
 ----------------------
 
 ![QUERY1](https://github.com/user-attachments/assets/478fdf3a-a18a-4a48-a1b3-12f1c18bfa2e)
+
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
