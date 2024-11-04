@@ -91,7 +91,7 @@ A Data Analyst is a problem-solver. He works with historical data. Every Data An
 
 ### Exploratory Data Analysis
 -----------------------------
-- EDA involveed the exploring of the Data to answer some questions about the Data such as:
+- EDA involved the exploring of the Data to answer some questions about the Data such as:
   1. What is the overall fourth highest salary?
   2. What is the overall third lowest salary?
   3. Which company has the highest salary?
