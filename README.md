@@ -68,9 +68,11 @@
 
 ### Data Visualization
 ----------------------
+![CLASS WORK1](https://github.com/user-attachments/assets/16c6d4d7-c675-4528-9efa-8888f59c0045)
 
-![QUERY1](https://github.com/user-attachments/assets/478fdf3a-a18a-4a48-a1b3-12f1c18bfa2e)
+![CLASS WORK2](https://github.com/user-attachments/assets/835fb04c-5079-447d-b05a-5af7d602953b)
 
+![CLASS WORK3](https://github.com/user-attachments/assets/d6cd9ae1-3a1f-4e5d-9d89-2d3a1931d38f)
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
