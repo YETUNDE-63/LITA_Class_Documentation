@@ -34,22 +34,26 @@ Data must first be extracted from its source, transform it, and load before it c
 Analysis is beyond visualization. Statistics must come in. Presentation is one of the key things an Analyst does. 
 A Data Analyst is a problem-solver. He works with historical data. Every Data Analyst must ensure getting an accurate data for presentation.
 
-Excel Class
+
+### Class
+----------
+
+1. Excel Class
 -	Data Entry in Excel
 -	Excel Functions
 -	Reporting with Pivot Tables & Charts
 
-SQL Class
+2. SQL Class
 -	Installation of SQL
 -	Writing SQL Queries
 -	SQL Clauses
 -	SQL Operators
 -	SQL Views
 
-GitHub Class
+3. GitHub Class
 -	Portfolio building for Data Analysis with GitHub
 
-Power BI Class
+4. Power BI Class
 -	Power BI Installation
 -	Data Entry & connecting to Data sources
 -	Power BI Fundamentals
@@ -58,13 +62,8 @@ Power BI Class
 -	Power BI & Data Visualization
 
 
-
-### Data Sources
-----------------
-
 ### Tools Used
 --------------
-
 
 - Microsoft Excel [Download Here](http://www.microsoft.com)
   1. For Data Cleaning
@@ -76,6 +75,11 @@ Power BI Class
  
 - GitHub
   - For Portfolio Building
+ 
+- Power BI
+  - For Data Entry/Get Data from Open Sources
+  - For Data Transformation
+  - For Data Visualization
 
 ### Data Cleansing and Preparations
 -----------------------------------
@@ -87,8 +91,10 @@ Power BI Class
 ### Exploratory Data Analysis
 -----------------------------
 - EDA involveed the exploring of the Data to answer some questions about the Data such as:
-  1. What is the total fees paid by students in all branches?
-  2. Wchich gender are top class?
+  1. What is the overall fourth highest salary?
+  2. What is the overall third lowest salary?
+  3. Which company has the highest salary?
+  4. Which company has the lowest salary?
 
 ### Data Analysis
 -----------------
@@ -104,6 +110,10 @@ Power BI Class
    SELECT * FROM TABLE1
    ~~~
 
+ - Example 3:
+ ~~~SQL
+ SELECT SUM(COLUMN1) AS [ALAS] FROM TABLE1
+ ~~~
 
 ### Data Visualization
 ----------------------
