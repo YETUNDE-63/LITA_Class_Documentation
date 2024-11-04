@@ -15,7 +15,7 @@
 
 [Data Visualization](#data-visualization)
 
-[Data Sources](#data-sources)
+[Acknowledgement](#acknowledgement)
 
 
 ### Class Overview
@@ -36,7 +36,7 @@ Analysis is beyond visualization. Statistics must come in. Presentation is one o
 A Data Analyst is a problem-solver. He works with historical data. Every Data Analyst must ensure getting an accurate data for presentation.
 
 
-### Class
+### Sessions
 ----------
 
 1. Excel Class
