@@ -130,6 +130,8 @@ A Data Analyst is a problem-solver. He works with historical data. Every Data An
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
 
+
+
 ### Aknowledgement
 ------------------
 
