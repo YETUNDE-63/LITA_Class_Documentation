@@ -72,7 +72,8 @@
 
 ![CLASS WORK2](https://github.com/user-attachments/assets/835fb04c-5079-447d-b05a-5af7d602953b)
 
-![CLASS WORK3](https://github.com/user-attachments/assets/d6cd9ae1-3a1f-4e5d-9d89-2d3a1931d38f)
+![CLASS WORK3](https://github.com/user-attachments/assets/c1c587ad-7536-4114-9e92-82906382ec16)
+
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
