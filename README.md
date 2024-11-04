@@ -36,8 +36,8 @@ Analysis is beyond visualization. Statistics must come in. Presentation is one o
 A Data Analyst is a problem-solver. He works with historical data. Every Data Analyst must ensure getting an accurate data for presentation.
 
 
-### Sessions
-----------
+#### Sessions Held
+-----------------
 
 1. Excel Class
 -	Data Entry in Excel
