@@ -20,7 +20,44 @@
 ### Class Overview
 -------------------
 
-This is detailkabout 
+This is about the Data Analysis Class with The Incubator Hub for the past few months, to acquire additional skills required for Data Analysis, such as Tech skills (Excel, SQL), Data Visualization (Power BI) and Communication Skill (GitHib). 
+
+It was an insightful moment with deep knowledge.  From Basics of Data, to Data Analysis for Data-Driven Decision Making. The class began with MS-EXCEL for data cleaning and reports visualization (tables/charts) using Pivot Tables. Also, writing of queries with SQL. Proceeded further to installation of GitHub and building of a Portfolio. And the class was rounded off with Power BI data entry, connecting with data sources and data visualization.
+
+Data Analysis involves inspecting, cleaning, transforming and modelling data to discover useful information, draw conclusions, and support decision-making.
+A data is structured in 3 different ways: 
+1)	Structured – it is in a table format
+2)	Semi-structured – it is not in a table format, but in XML/ISON format
+3)	Unstructured – it comes in media form
+
+Data must first be extracted from its source, transform it, and load before it can be restructured for data-driven decision making.
+Analysis is beyond visualization. Statistics must come in. Presentation is one of the key things an Analyst does. 
+A Data Analyst is a problem-solver. He works with historical data. Every Data Analyst must ensure getting an accurate data for presentation.
+
+Excel Class
+-	Data Entry in Excel
+-	Excel Functions
+-	Reporting with Pivot Tables & Charts
+
+SQL Class
+-	Installation of SQL
+-	Writing SQL Queries
+-	SQL Clauses
+-	SQL Operators
+-	SQL Views
+
+GitHub Class
+-	Portfolio building for Data Analysis with GitHub
+
+Power BI Class
+-	Power BI Installation
+-	Data Entry & connecting to Data sources
+-	Power BI Fundamentals
+-	Power Query for Data Transformation
+-	Data Analysis Expressions (DAX) Functions
+-	Power BI & Data Visualization
+
+
 
 ### Data Sources
 ----------------
