@@ -3,7 +3,7 @@
 ### Project Title:
 ------------------
 
-[Project Overview](#project-overview)
+[Class Overview](#class-overview)
 
 [Data Sources](#data-sources)
 
@@ -17,8 +17,10 @@
 
 [Data Visualization](#data-visualization)
 
-### Projet Overview
+### Class Overview
 -------------------
+
+This is detailkabout 
 
 ### Data Sources
 ----------------
