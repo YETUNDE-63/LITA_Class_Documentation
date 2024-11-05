@@ -116,6 +116,18 @@ A Data Analyst is a problem-solver. He works with historical data. Every Data An
  SELECT SUM(COLUMN1) AS [ALAS] FROM TABLE1
  ~~~
 
+### Links
+---------
+[Excel Functions 1 - Numbers (11).xlsx](https://github.com/user-attachments/files/17637841/Excel.Functions.1.-.Numbers.11.xlsx)
+
+[Excel Functions 2 - Text (12).xlsx](https://github.com/user-attachments/files/17637842/Excel.Functions.2.-.Text.12.xlsx)
+
+[Excel Functions 3 - LookUp (1).xlsx](https://github.com/user-attachments/files/17637845/Excel.Functions.3.-.LookUp.1.xlsx)
+
+[Pivot Tables File.xlsx](https://github.com/user-attachments/files/17637850/Pivot.Tables.File.xlsx)
+
+
+
 ### Data Visualization
 ----------------------
 
