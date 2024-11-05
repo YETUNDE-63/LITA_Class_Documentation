@@ -128,6 +128,7 @@ A Data Analyst is a problem-solver. He works with historical data. Every Data An
 
 [Pivot Tables File.xlsx](https://github.com/user-attachments/files/17637850/Pivot.Tables.File.xlsx)
 
+https://wesabimarket-my.sharepoint.com/:u:/r/personal/yetunde_wesabimarket_com_ng/Documents/Documents/SQL%20Server%20Management%20Studio/SQLQuery1b.sql?csf=1&web=1&e=I81LwX
 
 
 ### Data Visualization
