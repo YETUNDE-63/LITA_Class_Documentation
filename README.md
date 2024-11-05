@@ -125,6 +125,9 @@ A Data Analyst is a problem-solver. He works with historical data. Every Data An
 
 ![CLASS WORK3](https://github.com/user-attachments/assets/c1c587ad-7536-4114-9e92-82906382ec16)
 
+![SALES OVERVIEW](https://github.com/user-attachments/assets/a3b2a0c3-c9f9-4cd2-a346-a61a95cce469)
+
+
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
