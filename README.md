@@ -130,6 +130,12 @@ A Data Analyst is a problem-solver. He works with historical data. Every Data An
 
 https://wesabimarket-my.sharepoint.com/:u:/r/personal/yetunde_wesabimarket_com_ng/Documents/Documents/SQL%20Server%20Management%20Studio/SQLQuery1b.sql?csf=1&web=1&e=I81LwX
 
+[Columnar Data.xlsx](https://github.com/user-attachments/files/17637968/Columnar.Data.xlsx)
+
+[Loan Data.xlsx](https://github.com/user-attachments/files/17637984/Loan.Data.xlsx
+
+[LITA Class Inventory.xlsx](https://github.com/user-attachments/files/17637999/LITA.Class.Inventory.xlsx)
+
 
 ### Data Visualization
 ----------------------
