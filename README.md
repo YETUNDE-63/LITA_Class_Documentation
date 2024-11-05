@@ -120,6 +120,7 @@ A Data Analyst is a problem-solver. He works with historical data. Every Data An
 
 ### Links
 ---------
+
 [Excel Functions 1 - Numbers (11).xlsx](https://github.com/user-attachments/files/17637841/Excel.Functions.1.-.Numbers.11.xlsx)
 
 [Excel Functions 2 - Text (12).xlsx](https://github.com/user-attachments/files/17637842/Excel.Functions.2.-.Text.12.xlsx)
@@ -135,6 +136,8 @@ https://wesabimarket-my.sharepoint.com/:u:/r/personal/yetunde_wesabimarket_com_n
 [Loan Data.xlsx](https://github.com/user-attachments/files/17637984/Loan.Data.xlsx
 
 [LITA Class Inventory.xlsx](https://github.com/user-attachments/files/17637999/LITA.Class.Inventory.xlsx)
+
+[HR Data.xlsx](https://github.com/user-attachments/files/17637977/HR.Data.xlsx)
 
 
 ### Data Visualization
