@@ -7,7 +7,7 @@
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Preparations](#data-cleansing-and-preparations)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -84,9 +84,9 @@ A Data Analyst is a problem-solver. He works with historical data. Every Data An
   - For Data Transformation
   - For Data Visualization
 
-### Data Cleansing and Preparations
+### Data Cleaning and Preparations
 -----------------------------------
-- In the initial phase of the Data Cleasing and preparations, we perform the following actions:
+- In the initial phase of the Data Cleaning and preparations, we perform the following actions:
   1. Data loading and inspection
   2. Handling missing variables
   3. Data cleaning and formatting
